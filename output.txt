@@ -1,0 +1,10 @@
+{'link': 'https://philadelphia.craigslist.org/ctd/d/dudley-2016-tesla-model-p90d/7503815089.html', 'name': '2016 Tesla Model S P90D', 'price': '$32,502', 'date': '2022-07-02 03:20'}
+{'link': 'https://philadelphia.craigslist.org/ctd/d/dudley-2016-tesla-model-p90d/7500829029.html', 'name': '2016 Tesla Model S P90D', 'price': '$32,502', 'date': '2022-06-24 18:40'}
+{'link': 'https://philadelphia.craigslist.org/ctd/d/newman-grove-2020-tesla-model/7500262175.html', 'name': '2020 Tesla Model Y - Nationwide Shipping !', 'price': '$53,700', 'date': '2022-06-23 14:08'}
+{'link': 'https://philadelphia.craigslist.org/ctd/d/newman-grove-2018-tesla-model/7500260912.html', 'name': '2018 Tesla Model S - Nationwide Shipping !', 'price': '$75,000', 'date': '2022-06-23 14:06'}
+{'link': 'https://philadelphia.craigslist.org/ctd/d/newman-grove-2018-tesla-model/7500261205.html', 'name': '2018 Tesla Model X - Nationwide Shipping !', 'price': '$67,000', 'date': '2022-06-23 14:06'}
+{'link': 'https://philadelphia.craigslist.org/cto/d/philadelphia-2022-tesla-model/7499376578.html', 'name': '2022 Tesla Model Y Performance', 'price': '$75,500', 'date': '2022-06-21 13:47'}
+{'link': 'https://philadelphia.craigslist.org/ctd/d/dudley-2016-tesla-model-p90d/7497932594.html', 'name': '2016 Tesla Model S P90D', 'price': '$32,502', 'date': '2022-06-17 19:40'}
+{'link': 'https://philadelphia.craigslist.org/ctd/d/portland-2022-tesla-model-plaid-fsd/7497083807.html', 'name': "2022 TESLA MODEL X PLAID FSD 6-PASS 22'S CARBON INTERIOR p100d 2021", 'price': '$169,997', 'date': '2022-06-15 20:14'}
+{'link': 'https://philadelphia.craigslist.org/ctd/d/dudley-2016-tesla-model-p90d/7494972836.html', 'name': '2016 Tesla Model S P90D', 'price': '$32,502', 'date': '2022-06-10 19:10'}
+{'link': 'https://philadelphia.craigslist.org/cto/d/philadelphia-awd-2016-tesla-model/7493217465.html', 'name': 'AWD 2016 Tesla model s Performance Sedan 4D', 'price': '$32,400', 'date': '2022-06-06 19:10'}

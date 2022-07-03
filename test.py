@@ -1,3 +1,12 @@
-l = [1,2,23,4,35,3523452,3,234]
+import pandas as pd
 
-print(len(l))
+df = pd.DataFrame(
+    {
+        "Name": ["John", "Mary", "Genesis"],
+        "Age": [22, 25, 14],
+        "Sex": ["Male", "Female", "Female"],
+    }
+)
+
+print(df)
+print(f"Type: {type(df)}")
